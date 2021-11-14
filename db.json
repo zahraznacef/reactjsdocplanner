@@ -1,0 +1,77 @@
+{
+  "icon":[
+    {
+      "icon" : "https://www.docplanner.com/img/sygnet.png"
+    }
+  ],
+  "triplecards":[
+    {
+      "id":1,
+      "classname":"triplecard-div green",
+      "icon":"https://www.docplanner.com/icons/icon-patients.svg",
+      "head":"For patients",
+      "content":"Find a doctor, book a visit and solve any health-related doubt",
+      "select":"Choose country"
+    },
+    {
+      "id":2,
+      "classname":"triplecard-div blue",
+      "icon":"https://www.docplanner.com/icons/icon-doctors.svg",
+      "head":"For doctors",
+      "content":"Save time managing visits and cut no-shows by half",
+      "select":"Choose country"
+    },
+    {
+      "id":3,
+      "classname":"triplecard-div light",
+      "icon":"https://www.docplanner.com/icons/icon-clinics.svg",
+      "head":"For clinics",
+      "content":"For clinics Deliver an exceptional patient experience in your clinic",
+      "select":"More than 20 specia"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "img": "https://www.docplanner.com/images/warsaw.png",
+      "country": "Warsaw",
+      "link" : "https://www.docplanner.com/career?&loc=poland#jobs-offers"
+    },
+    {
+      "id": 2,
+      "img": "https://www.docplanner.com/images/barcelona.png",
+      "country": "Barcelona",
+      "link" : "https://www.docplanner.com/career?&loc=spain#jobs-offers"
+    },
+    {
+      "id":3,
+      "img":"https://www.docplanner.com/images/istanbul.png",
+      "country": "Istanbul",
+      "link" : "https://www.docplanner.com/career?&loc=turkey#jobs-offers"
+    },
+    {
+      "id":4,
+      "img":"https://www.docplanner.com/images/rome.png",
+      "country": "Rome",
+      "link" : "https://www.docplanner.com/career?&loc=italy#jobs-offers"
+    },
+    {
+      "id":5,
+      "img":"https://www.docplanner.com/images/bologna.png",
+      "country": "Bologna",
+      "link" : "https://www.docplanner.com/career?&loc=italy#jobs-offers"
+    },
+    {
+      "id":6,
+      "img":"https://www.docplanner.com/images/curitiba.png",
+      "country": "Curitiba",
+      "link" : "https://www.docplanner.com/career?&loc=brazil#jobs-offers"
+    },
+    {
+      "id":7,
+      "img":"https://www.docplanner.com/images/mexico-city.png",
+      "country": "Mexico City",
+      "link" : "https://www.docplanner.com/career?&loc=mexico#jobs-offers"
+    }
+  ]
+}
